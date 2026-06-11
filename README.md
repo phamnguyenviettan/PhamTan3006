@@ -4,10 +4,7 @@
 - 🔭 I’m currently a student [Ho Chi Minh University of Information 
 Technology-VNUHCM](https://www.uit.edu.vn/)
 
-- 🤝 All of my projects are available at 
-[PhamTan3006](https://github.com/PhamTan3006)
-
-- 📫 How to reach me **19520262@gm.uit.edu.vn, tanp54968@gmail.com**
+- 📫 How to reach me **tanp54968@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,10 +16,10 @@ alt="https://codepen.io/phamtan3006" height="30" width="40" /></a>
 target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
 alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/phamtan06/" 
+<a href= "https://www.facebook.com/PhamTan06"
 target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-alt="https://www.facebook.com/phamtan06/" height="30" width="40" /></a>
+alt="(https://www.facebook.com/PhamTan06)" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/pham___tan/" 
 target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
